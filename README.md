@@ -59,3 +59,13 @@ The output will be in the `dist` folder.
 - **Animation**: Motion (formerly Framer Motion)
 - **Icons**: Lucide React
 - **Charts**: Recharts
+- ## 🔐 Environment Variables Setup
+
+This project uses environment variables to securely store API keys.
+
+Create a `.env` file in the root folder of the project and add the following:
+
+### 📄 `.env.example`
+
+GEMINI_API_KEY=your_gemini_api_key_here
+
