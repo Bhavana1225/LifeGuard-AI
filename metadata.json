@@ -1,0 +1,5 @@
+{
+  "name": "LifeGuard AI",
+  "description": "AI-powered early health risk prediction and prevention system that evaluates symptoms and lifestyle inputs to estimate health risks and suggest personalized preventive actions.",
+  "requestFramePermissions": ["geolocation"]
+}
