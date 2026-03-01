@@ -26,19 +26,9 @@ Clone the repository and install dependencies:
 npm install
 ```
 
-### 3. Environment Configuration
 
-Copy the `.env.example` file to create a `.env` file:
 
-```bash
-cp .env.example .env
-```
-
-Open `.env` and configure your settings:
-- `GEMINI_API_KEY`: Your Google Gemini API Key (Get one at [aistudio.google.com](https://aistudio.google.com/app/apikey)).
-- `VITE_AI_MODE`: Set to `live` for real AI or `mock` for testing.
-
-### 4. Running the App
+### 3. Running the App
 
 #### Option A: Using VS Code (Recommended)
 1. Open the project in VS Code.
@@ -52,7 +42,7 @@ Run the development server:
 npm run dev
 ```
 
-### 5. Building for Production
+### 4. Building for Production
 
 To create a production-ready build:
 
